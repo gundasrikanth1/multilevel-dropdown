@@ -1,0 +1,48 @@
+[
+	{
+		"id": 1,
+		"name": "Mechanical Industry",
+		"children": [
+			{
+				"id": 2,
+				"name": "Vehicles",
+				"children": [
+					{
+						"id": 3,
+						"name": "Four Wheelers",
+						"children": [
+							{
+								"id": 4,
+								"name": "Goods Transport",
+								"children": [
+									{
+										"id": 5,
+										"name": "Truck Car"
+									},
+									{
+										"id": 6,
+										"name": "Wagon Car"
+									}
+								]
+							}
+						]
+					},
+					{
+						"id": 7,
+						"name": "Three Wheelers",
+						"children": []
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 8,
+		"name": "Metal Industry",
+		"children": []
+	},
+	{
+		"name": "Leather Industry",
+		"children": []
+	}
+]
